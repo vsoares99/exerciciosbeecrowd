@@ -1,0 +1,14 @@
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\bin\Debug\net8.0\Bee1150.exe
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\bin\Debug\net8.0\Bee1150.deps.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\bin\Debug\net8.0\Bee1150.runtimeconfig.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\bin\Debug\net8.0\Bee1150.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\bin\Debug\net8.0\Bee1150.pdb
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.AssemblyInfo.cs
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\refint\Bee1150.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.pdb
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\Bee1150.genruntimeconfig.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Exercício 1150\Bee1150\Bee1150\obj\Debug\net8.0\ref\Bee1150.dll
