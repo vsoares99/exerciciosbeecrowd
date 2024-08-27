@@ -1,0 +1,15 @@
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\bin\Debug\net8.0\Bee1006.exe
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\bin\Debug\net8.0\Bee1006.deps.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\bin\Debug\net8.0\Bee1006.runtimeconfig.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\bin\Debug\net8.0\Bee1006.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\bin\Debug\net8.0\Bee1006.pdb
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.AssemblyInfo.cs
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.sourcelink.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\refint\Bee1006.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.pdb
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\Bee1006.genruntimeconfig.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1006\Bee1006\obj\Debug\net8.0\ref\Bee1006.dll
