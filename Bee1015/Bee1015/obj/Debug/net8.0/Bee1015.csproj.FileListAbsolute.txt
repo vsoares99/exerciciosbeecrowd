@@ -1,0 +1,15 @@
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\bin\Debug\net8.0\Bee1015.exe
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\bin\Debug\net8.0\Bee1015.deps.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\bin\Debug\net8.0\Bee1015.runtimeconfig.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\bin\Debug\net8.0\Bee1015.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\bin\Debug\net8.0\Bee1015.pdb
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.AssemblyInfo.cs
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.sourcelink.json
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\refint\Bee1015.dll
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.pdb
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\Bee1015.genruntimeconfig.cache
+C:\Users\Victor\Documents\Codismo\Exercícios BeeCrowd\Bee1015\Bee1015\obj\Debug\net8.0\ref\Bee1015.dll
