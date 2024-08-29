@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\Codismo\\Exerc\u00EDcios BeeCrowd\\Bee1016\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5390F94-362D-4B02-A58B-F1BFF4B24908}|Bee1016\\Bee1016.csproj|c:\\users\\victor\\documents\\codismo\\exerc\u00EDcios beecrowd\\bee1016\\bee1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5390F94-362D-4B02-A58B-F1BFF4B24908}|Bee1016\\Bee1016.csproj|solutionrelative:bee1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\Codismo\\Exerc\u00EDcios BeeCrowd\\Bee1016\\Bee1016\\Program.cs",
+              "RelativeDocumentMoniker": "Bee1016\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\Codismo\\Exerc\u00EDcios BeeCrowd\\Bee1016\\Bee1016\\Program.cs",
+              "RelativeToolTip": "Bee1016\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:33:40.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
